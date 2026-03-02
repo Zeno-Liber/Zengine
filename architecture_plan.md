@@ -1,8 +1,6 @@
----
-
 # High-Level Architecture
 
-## 1️⃣ Engine Owns the Runtime
+## 1️ Engine Owns the Runtime
 
 The engine is a **runtime environment**, not a game framework.
 
@@ -25,7 +23,7 @@ It does **not** own:
 
 ---
 
-## 2️⃣ Game Is a Plugin
+## Game Is a Plugin
 
 Each game is a module that:
 
